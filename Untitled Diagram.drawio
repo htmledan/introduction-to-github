@@ -264,17 +264,17 @@
             <mxPoint x="-40" y="510" as="targetPoint" />
             <Array as="points">
               <mxPoint x="170" y="400" />
-              <mxPoint x="-40" y="400" />
+              <mxPoint x="-153" y="400" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1JqTvTmNoo5hD0twPPGt-67" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=-0.028;exitY=0.909;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="1JqTvTmNoo5hD0twPPGt-1" target="1JqTvTmNoo5hD0twPPGt-16">
+        <mxCell id="1JqTvTmNoo5hD0twPPGt-67" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.028;entryY=0.909;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="1JqTvTmNoo5hD0twPPGt-16" target="1JqTvTmNoo5hD0twPPGt-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-180" y="985" as="sourcePoint" />
-            <mxPoint x="-477" y="355" as="targetPoint" />
+            <mxPoint x="-477" y="355" as="sourcePoint" />
+            <mxPoint x="-180" y="985" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-607" y="995" />
               <mxPoint x="-620" y="245" />
+              <mxPoint x="-607" y="995" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -376,10 +376,10 @@
           <mxGeometry x="315" y="980" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1JqTvTmNoo5hD0twPPGt-89" value="DATA BUKU DIPINJAMKAN" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-480" y="915" width="290" height="30" as="geometry" />
+          <mxGeometry x="-490" y="800" width="290" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1JqTvTmNoo5hD0twPPGt-90" value="DATA BUKU DI KEMBALIKAN" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-500" y="965" width="300" height="30" as="geometry" />
+          <mxGeometry x="-490" y="850" width="300" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1JqTvTmNoo5hD0twPPGt-91" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" target="1JqTvTmNoo5hD0twPPGt-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -403,6 +403,18 @@
         </mxCell>
         <mxCell id="1JqTvTmNoo5hD0twPPGt-97" value="DATA ANGGOTA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="20" y="960" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1JqTvTmNoo5hD0twPPGt-98" value="DATA PENGEMBALIAN BUKU" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="540" y="905" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1JqTvTmNoo5hD0twPPGt-99" value="DATA PEMINJAMAN BUKU" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="545" y="850" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1JqTvTmNoo5hD0twPPGt-102" value="KARTU ANGGOTA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-485" y="910" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1JqTvTmNoo5hD0twPPGt-103" value="DATA ANGGOTA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-490" y="955" width="290" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
