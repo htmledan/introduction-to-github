@@ -253,8 +253,8 @@
             <mxPoint x="-240.05000000000018" y="298.0000000000002" as="sourcePoint" />
             <mxPoint x="-60" y="890" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-380" y="290" />
-              <mxPoint x="-370" y="890" />
+              <mxPoint x="-440" y="290" />
+              <mxPoint x="-430" y="890" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -380,6 +380,17 @@
         </mxCell>
         <mxCell id="1JqTvTmNoo5hD0twPPGt-90" value="DATA BUKU DI KEMBALIKAN" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="-390" y="960" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1JqTvTmNoo5hD0twPPGt-91" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" target="1JqTvTmNoo5hD0twPPGt-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-310" y="300" as="sourcePoint" />
+            <mxPoint x="-50" y="900" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-310" y="350" />
+              <mxPoint x="-390" y="350" />
+              <mxPoint x="-390" y="840" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
