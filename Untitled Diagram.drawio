@@ -375,6 +375,12 @@
         <mxCell id="1JqTvTmNoo5hD0twPPGt-88" value="KARTU ANGGOTA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="315" y="980" width="220" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="1JqTvTmNoo5hD0twPPGt-89" value="DATA BUKU DIPINJAMKAN" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="910" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1JqTvTmNoo5hD0twPPGt-90" value="DATA BUKU DI KEMBALIKAN" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="960" width="300" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
